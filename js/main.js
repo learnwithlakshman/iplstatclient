@@ -1,8 +1,8 @@
 
 const selectId = document.querySelector("#selectData");
-//const baseUrl = 'https://iplstatapp.herokuapp.com/';
+const baseUrl = 'https://iplstatapp.herokuapp.com/';
 //const baseUrl = 'http://localhost:8080/';
-const baseUrl = "http://iplstatapp-env.eba-6zne2vkp.ap-south-1.elasticbeanstalk.com";
+//const baseUrl = "http://iplstatapp-env.eba-6zne2vkp.ap-south-1.elasticbeanstalk.com";
 
 getLabels();
 
